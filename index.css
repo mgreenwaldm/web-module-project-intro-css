@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    max-width: 100%;
+    border: 1px solid gray;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    width: 75%;
+    font-size: .8rem;
+}
+
+section {
+    padding: 4% 0;
+    width: 50%;
+}
+
+.boxOne {
+    text-color: blue;
+    background-color: orange;
+    width: 50%;
+    display: inline-block;
+}
+
+.boxTwo {
+    background-color: hotpink;
+    width: 49%;
+    display: inline-block;
+}
+
+.boxThree {
+    background-color: lavender;
+    display: none;
+}
+
+.boxFour {
+    background-color: skyblue;
+}
